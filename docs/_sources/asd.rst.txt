@@ -1,0 +1,7 @@
+asd module
+==========
+
+.. automodule:: asd
+   :members:
+   :undoc-members:
+   :show-inheritance:
